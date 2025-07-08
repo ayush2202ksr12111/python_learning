@@ -9,3 +9,14 @@ x=2
 print(x+3)
 
 #_____________________________________________
+
+
+
+# meanwhile we will define one more variable 
+
+y=3
+
+# now we will add the same variable here also
+
+print(x+y)
+#_____________________________________________
