@@ -3,3 +3,9 @@
 message="Hi I am goood!"
 
 print(message)
+
+# we can change the value of variable in python
+
+message = "Hi I am very fine! sorry for writing previously good!"
+
+print(message)
