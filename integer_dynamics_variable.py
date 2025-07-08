@@ -20,3 +20,11 @@ y=3
 
 print(x+y)
 #_____________________________________________
+
+
+# now we will change the value as we know the value is not static it will be changed
+
+x=9
+
+#now we will adding one more variable also
+print(x+y)
