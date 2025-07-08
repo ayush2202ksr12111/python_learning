@@ -3,3 +3,9 @@
 name = "ayush"
 # it will print the variable of name
 print(name)
+
+# print the name 10 times
+
+print(name*10)
+
+#So this will be it if you want to add it 
