@@ -12,3 +12,21 @@ print(nums)
 #now suppose if we just want to print the single number at particular index this will print at index position 0 
 
 print(nums[0])
+
+# now suppose we want to print the number at index position 3
+
+print(nums[3])
+
+# now suppose we want to print the number list starting from index postion 1 till end
+
+print(nums[1:])
+
+
+#now suppose we want to print the number at index position -1 this will print the number from last position
+
+print(nums[-1])
+
+# now we want to print the number from first position by using the negative number for that we are going to use -4
+
+print(nums[-4])
+
