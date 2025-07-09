@@ -26,4 +26,18 @@ print(x)
 
 x*=2
 print(x)
+#===========================================================
 
+# urinary operator
+
+# how can a variable easily becomes negative
+
+# we will declare a variable with n as 7
+
+n = 7
+print(n)
+#now we are going to convert it without converting it into value as negative
+
+n = -n
+
+print(n)
