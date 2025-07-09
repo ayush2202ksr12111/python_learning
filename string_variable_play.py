@@ -37,6 +37,40 @@ print(name[6])
 
 print(name[-1])
 
+#=====================================================
+
+# it will print the name in first
+
+print(name[-7])
+
+# we print from 0 to 1, it does not take 2nd index position 
+# suppose we want to print the number in list such that 0 to 2
+
+print(name[0:2])
+
+# it will take 1, 2 , 3 index position but not 4 
+# now we will try to print something else to test another to see whether it works or not
+
+print(name[1:4])
+
+# now we will try to print the whole letter except first string character
+
+print(name[1:])
+
+
+# now we will print like it will be into 10th index such that it starts from 3 will it print because we don,t have that much index in a string value
+
+print(name[3:10])
+
+# if we try to assign the value in string using the power of list will it work
+
+# no it will throw the error that the value hasn,t been assigned
+
+#name[0:3] = "my"
+
+# what if we try to print the string variable with dynamically string value
+
+print('my '+name[3:])
 
 
 
