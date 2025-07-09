@@ -52,3 +52,28 @@ print(names[0])
 
 print(nums[-4])
 
+# now suppose we want to print the name from names list array at index position 3
+
+print(names[3])
+
+# now suppose we want to print the names list starting from index postion 1 till end
+
+print(names[1:])
+
+
+#now suppose we want to print the names at index position -1 this will print the names from last position
+
+print(names[-1])
+
+# now we want to print the names from first position by using the negative number for that we are going to use -4
+
+print(names[-4])
+# now we will follow same procedure as above
+
+
+
+
+
+
+
+
