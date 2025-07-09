@@ -26,6 +26,28 @@ print(nums[1:])
 
 print(nums[-1])
 
+#+++++++++++++++++++++++++++++++++++++++++++++++++
+# now we will use string feature here 
+
+# we use names list that will contain multiple string variables
+
+
+# index      0        1          2       3
+
+names = [ 'naveen', 'Kiran' , 'John', 'Kailash' ]
+
+# index     -4        -3        -2       -1 
+ 
+# suppose we want to display the whole names list array
+ 
+print(names)
+
+#now suppose if we just want to print the single name at particular index this will print at index position 0 
+
+print(names[0])
+
+
+
 # now we want to print the number from first position by using the negative number for that we are going to use -4
 
 print(nums[-4])
