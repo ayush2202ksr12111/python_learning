@@ -70,7 +70,20 @@ print(names[-1])
 print(names[-4])
 # now we will follow same procedure as above
 
+#+=======================================
+# now we will use feature of  list where a number can be added we will use variable that will contain both numbers and string list 
 
+num_name = [nums, names]
+# this will contain list in nested loop
+print(num_name)
+
+
+# now we are going to use feature of append in list where we are going to append the list
+nums.append(45)
+
+# now we are again going to reprint the number array
+
+print(nums)
 
 
 
