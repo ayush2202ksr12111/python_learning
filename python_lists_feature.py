@@ -105,7 +105,6 @@ nums.pop(1)
 
 print(nums)
 
-
 #+++++++++++++++++++++++++++++++++++++++++
 
 # there is by default feature of pop that will be used in last in first out feature
@@ -113,5 +112,70 @@ print(nums)
 # we will use lifo feature here which will by default pop the last element
 
 # it will by default remove the last feature from the last stack
-num.pop()
+nums.pop()
+print(nums)
+
+# suppose you want to add the feature of list in which where you can add the feature that will display the new list will be deleted where we want it to be deleted
+
+del nums[2:]
+
+print(nums)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
