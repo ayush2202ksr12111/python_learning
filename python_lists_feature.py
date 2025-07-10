@@ -84,7 +84,18 @@ nums.append(45)
 # now we are again going to reprint the number array
 
 print(nums)
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# now suppose we want to insert the number at index position 2 for that we are going to add it in list for that we are going to use insert feature in it
 
+nums.insert(2,77)
+
+print(nums)
+
+# suppose now we want to remove the number form lists for that we are going to use remove feature of list in it just by deifning the number 
+
+nums.remove(95)
+
+print(nums)
 
 
 
