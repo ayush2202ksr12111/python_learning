@@ -98,6 +98,11 @@ nums.remove(95)
 print(nums)
 
 
+#+++++++++++++++++++++++++++++++++++++
+# now suppose we want to add feature of list which will remove the number from list for that we will use pop method pop method will automatically remove the element from index
 
+nums.pop(1)
+
+print(nums)
 
 
