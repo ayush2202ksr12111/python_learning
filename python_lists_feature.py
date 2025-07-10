@@ -106,3 +106,12 @@ nums.pop(1)
 print(nums)
 
 
+#+++++++++++++++++++++++++++++++++++++++++
+
+# there is by default feature of pop that will be used in last in first out feature
+
+# we will use lifo feature here which will by default pop the last element
+
+# it will by default remove the last feature from the last stack
+num.pop()
+
