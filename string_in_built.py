@@ -6,4 +6,4 @@ myname = "Ayush jain"
 
 # this inbuilt function will display the length of string
 
-len(myname)
+print(len(myname))
